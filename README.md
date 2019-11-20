@@ -3,15 +3,15 @@ A collection of learnings from various courses across domains
 
 # Contents
 - [Summary](#summary)
-- [Subjects](#subjects)
-- [Paradigms](#paradigms)
+- [Courses Undertaken](#courses undertaken)
+- [Programming Concepts](#programming concepts)
 - [References](#references)
 
 ## Summary
 
-## Subjects
+## Courses Undertaken
 
-## Programming
+## Programming Concepts
 
 ### Paradigms
 
