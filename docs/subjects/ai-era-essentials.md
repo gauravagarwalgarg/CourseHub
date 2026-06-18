@@ -97,4 +97,17 @@
 
 ---
 
+## 📓 From Learning Log
+
+| Course/Resource | Platform | Link |
+|----------------|----------|------|
+| How Transformer LLMs Work | DeepLearning.AI | [deeplearning.ai](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/) |
+| Intro to Large Language Models (1hr) | YouTube (Karpathy) | [YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g) |
+| How I use LLMs (2h7m) | YouTube (Simon Willison) | [YouTube](https://youtu.be/EWvNQjAaOHw) |
+| A Guide to Claude Code 2.0 | Blog | [sankalp.bearblog.dev](https://sankalp.bearblog.dev/my-experience-with-claude-code-20-and-how-to-get-better-at-using-coding-agents/) |
+| Things we learned about LLMs in 2024 | Blog (Simon Willison) | [simonwillison.net](https://simonwillison.net/2024/Dec/31/llms-in-2024/) |
+| 2025: The year in LLMs | Blog (Simon Willison) | [simonwillison.net](https://simonwillison.net/2025/Dec/31/the-year-in-llms/) |
+
+---
+
 *Cross-references: [Career Growth](../tracks/career-growth.md) · [Cloud Track](../tracks/cloud-devops.md) · [Interview Prep](../tracks/interview-prep.md)*

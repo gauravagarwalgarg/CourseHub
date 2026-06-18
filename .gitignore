@@ -1,2 +1,5 @@
 *.zip
 */.vscode/*
+
+# MkDocs build output
+site/

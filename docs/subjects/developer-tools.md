@@ -101,4 +101,17 @@
 | Bazel | Monorepo builds | [bazel.build](https://bazel.build/) |
 
 ---
+
+## 📓 From Learning Log
+
+| Course | Platform | Link |
+|--------|----------|------|
+| The Missing Semester (Shell, Git, Vim, etc.) | MIT (YouTube) | [YouTube Playlist](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) |
+| Build Apps with Windsurf's AI Coding Agents | DeepLearning.AI | [deeplearning.ai](https://www.deeplearning.ai/short-courses/build-apps-with-windsurfs-ai-coding-agents/) |
+| How Anthropic Built Claude Code | YouTube | [YouTube](https://www.youtube.com/watch?v=PQU9o_5rHC4) |
+| Prompt Driven Development Series (9 videos) | YouTube | [YouTube Playlist](https://www.youtube.com/playlist?list=PLj6YeMhvp2S6SxK3u_W5oN5neaZUpYK3O) |
+| Debug Python inside Docker using debugpy | YouTube | [YouTube](https://www.youtube.com/watch?v=ywfsLKRLmf4) |
+| Technical Writing One | Google | [developers.google.com](https://developers.google.com/tech-writing/one) |
+
+---
 *Cross-references: [Bash](../languages/bash.md) · [Cloud Track](../tracks/cloud-devops.md) · [Best Practices](best-practices.md)*

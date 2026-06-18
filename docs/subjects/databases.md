@@ -22,4 +22,13 @@
 | Build Your Own Database | [build-your-own.org/database](https://build-your-own.org/database/) |
 
 ---
+
+## 📓 From Learning Log
+
+| Course | Platform | Link |
+|--------|----------|------|
+| Database Design | Datacamp | [Datacamp](https://www.datacamp.com/courses/database-design) |
+| NoSQL Concepts | Datacamp | [Datacamp](https://www.datacamp.com/courses/nosql-concepts) |
+
+---
 *Cross-references: [Systems Track](../tracks/systems-programming.md) · [Cloud Track](../tracks/cloud-devops.md)*

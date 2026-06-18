@@ -444,4 +444,16 @@ Month 6: Mock interviews + Behavioral + Company-specific + Revision
 
 ---
 
+## 📓 From Learning Log
+
+| Course | Platform | Link |
+|--------|----------|------|
+| System Design for Beginners | Neetcode | [neetcode.io](https://neetcode.io/courses/system-design-for-beginners/0) |
+| System Design Interview | Neetcode | [neetcode.io](https://neetcode.io/courses/system-design-interview) |
+| Algorithms and Data Structures for Beginners | Neetcode | [neetcode.io](https://neetcode.io/courses/dsa-for-beginners/0) |
+| Advanced Algorithms | Neetcode | [neetcode.io](https://neetcode.io/courses/advanced-algorithms/0) |
+| Grokking Algorithms (Book) | Manning | [Manning](https://www.manning.com/books/grokking-algorithms) |
+
+---
+
 *"Interviews test your ability to think under pressure, communicate clearly, and solve problems systematically. Practice all three."*

@@ -80,4 +80,14 @@
 | Mathematics for Machine Learning | LA + Calculus + Prob | [mml-book.github.io](https://mml-book.github.io/) |
 
 ---
+
+## 📓 From Learning Log
+
+| Course | Platform | Link |
+|--------|----------|------|
+| MIT 18.06 Linear Algebra (Gilbert Strang) – Full playlist | YouTube | [YouTube Playlist](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) |
+| Foundations of Probability in Python | Datacamp | [Datacamp](https://www.datacamp.com/courses/foundations-of-probability-in-python) |
+| Hypothesis Testing in Python | Datacamp | [Datacamp](https://www.datacamp.com/courses/hypothesis-testing-in-python) |
+
+---
 *Cross-references: [AI & Deep Learning](ai-deep-learning.md) · [Embedded Track](../tracks/embedded-systems.md) · [Gaming](gaming.md) · [HFT](hft-finance.md)*

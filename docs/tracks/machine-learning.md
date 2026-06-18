@@ -107,4 +107,23 @@ Expert:       Novel architectures → Publishing → Production ML systems at sc
 
 ---
 
+## 📓 Short Courses & Hands-On (From Learning Log)
+
+| Course | Platform | Link |
+|--------|----------|------|
+| Quantization Fundamentals with Hugging Face | DeepLearning.AI | [deeplearning.ai](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/) |
+| Building Multimodal Search and RAG | DeepLearning.AI | [deeplearning.ai](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/) |
+| Build Apps with Windsurf's AI Coding Agents | DeepLearning.AI | [deeplearning.ai](https://www.deeplearning.ai/short-courses/build-apps-with-windsurfs-ai-coding-agents/) |
+| MLOps Concepts | Datacamp | [Datacamp](https://www.datacamp.com/courses/mlops-concepts) |
+| Machine Learning Monitoring Concepts | Datacamp | [Datacamp](https://www.datacamp.com/courses/machine-learning-monitoring-concepts) |
+
+### Books
+
+| Book | Link |
+|------|------|
+| Designing Machine Learning Systems (Chip Huyen) | [O'Reilly](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) |
+| Grokking Machine Learning | [Manning](https://www.manning.com/books/grokking-machine-learning) |
+
+---
+
 *"All models are wrong, but some are useful." George Box*

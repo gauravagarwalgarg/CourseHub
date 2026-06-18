@@ -1,0 +1,153 @@
+site_name: CourseHub
+site_description: "The bookmarked pages every developer saves but never opens finally organized in one place."
+site_author: Gaurav Agarwal
+site_url: https://gauravagarwalgarg.github.io/CourseHub
+
+repo_url: https://github.com/GauravAgarwalGarg/CourseHub
+repo_name: GauravAgarwalGarg/CourseHub
+
+docs_dir: docs
+theme:
+  name: material
+  icon:
+    logo: material/school
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - toc.follow
+    - announce.dismiss
+    - header.autohide
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/GauravAgarwalGarg/CourseHub
+  generator: false
+  analytics:
+    provider: google
+    property: ""
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search:
+      separator: '[\s\-\.\,]+'
+  - tags
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.mark
+  - pymdownx.critic
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - attr_list
+  - md_in_html
+  - def_list
+  - footnotes
+  - abbr
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+nav:
+  - Home: index.md
+  - Foundations: foundations.md
+  - Languages:
+      - Index: languages/index.md
+      - Python: languages/python.md
+      - C++: languages/cpp.md
+      - C: languages/c.md
+      - Rust: languages/rust.md
+      - Go: languages/go.md
+      - Java: languages/java.md
+      - JavaScript: languages/javascript.md
+      - Bash: languages/bash.md
+      - MATLAB: languages/matlab.md
+  - Subjects:
+      - Index: subjects/index.md
+      - AI & Deep Learning: subjects/ai-deep-learning.md
+      - AI-Era Essentials: subjects/ai-era-essentials.md
+      - Computer Architecture: subjects/computer-architecture.md
+      - Concurrency & Scheduling: subjects/concurrency-scheduling.md
+      - Databases: subjects/databases.md
+      - Developer Tools: subjects/developer-tools.md
+      - Distributed Systems: subjects/distributed-systems.md
+      - Electronics: subjects/electronics.md
+      - Emerging Industries: subjects/emerging-industries.md
+      - Gaming: subjects/gaming.md
+      - HFT & Finance: subjects/hft-finance.md
+      - IoT: subjects/iot.md
+      - Life Skills: subjects/life-skills.md
+      - Math for Engineers: subjects/math-for-engineers.md
+      - Networking: subjects/networking.md
+      - Open Source: subjects/open-source.md
+      - OS & Kernel: subjects/os-kernel.md
+      - Software Design: subjects/software-design.md
+      - Space Software: subjects/space-software.md
+      - Best Practices: subjects/best-practices.md
+      - Books: subjects/books.md
+      - Starred Repos: subjects/starred-repos.md
+      - Roadmaps: subjects/roadmaps.md
+      - Podcasts & YouTube: subjects/podcasts-youtube.md
+  - Career Tracks:
+      - Embedded Systems: tracks/embedded-systems.md
+      - Cloud & DevOps: tracks/cloud-devops.md
+      - Systems Programming: tracks/systems-programming.md
+      - Machine Learning: tracks/machine-learning.md
+      - Web Development: tracks/web-development.md
+      - Product Engineering: tracks/product-engineering.md
+      - Interview Prep: tracks/interview-prep.md
+      - Career Growth: tracks/career-growth.md
+  - Community:
+      - Conferences: conferences.md
+      - Engineering Blogs: blogs.md

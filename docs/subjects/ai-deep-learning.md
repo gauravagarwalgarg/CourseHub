@@ -107,4 +107,46 @@ Data Science ──→ Machine Learning ──→ Deep Learning ──→ Genera
 | ONNX | Model interop | [onnx.ai](https://onnx.ai/) |
 
 ---
+
+## 📓 From Learning Log
+
+### LLM & GenAI Courses
+
+| Course | Platform | Link |
+|--------|----------|------|
+| Neural Networks: Zero to Hero (Karpathy) | GitHub/YouTube | [github.com/karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero/) |
+| Deep Dive into LLMs like ChatGPT (3h31m) | YouTube (Karpathy) | [YouTube](https://www.youtube.com/watch?v=7xTGNNLPyMI) |
+| Let's reproduce GPT-2 124M (4h) | YouTube (Karpathy) | [YouTube](https://www.youtube.com/watch?v=l8pRSuU81PU) |
+| Let's build the GPT Tokenizer (2h13m) | YouTube (Karpathy) | [YouTube](https://www.youtube.com/watch?v=zduSFxRajkE) |
+| Stanford CS229: Building Large Language Models (1h44m) | YouTube | [YouTube](https://www.youtube.com/watch?v=9vM4p9NN0Ts) |
+| Pretraining LLMs | DeepLearning.AI | [deeplearning.ai](https://www.deeplearning.ai/short-courses/pretraining-llms) |
+| RLHF | DeepLearning.AI | [deeplearning.ai](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback) |
+| How Diffusion Models Work | DeepLearning.AI | [deeplearning.ai](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) |
+| A Hackers' Guide to Language Models (1h30m) | YouTube (Jeremy Howard) | [YouTube](https://www.youtube.com/watch?v=jkrNMKz9pWU) |
+| CS224N: NLP with Deep Learning (22 lectures) | YouTube (Stanford) | [YouTube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |
+| CS224U: Natural Language Understanding (15 lectures) | YouTube (Stanford) | [YouTube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20) |
+| Multilingual NLP 2020 | CMU | [cmu.edu](http://demo.clab.cs.cmu.edu/11737fa20/) |
+| DeepSeek-R1: How it Changes the LLM Story | YouTube | [YouTube](https://www.youtube.com/watch?v=0eMzc-WnBfQ) |
+| Post-training of LLMs | DeepLearning.AI | [deeplearning.ai](https://www.deeplearning.ai/short-courses/post-training-of-llms/) |
+
+### Books (LLM-Focused)
+
+| Book | Link |
+|------|------|
+| Hands-On Large Language Models (Jay Alammar) | [Amazon](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961) |
+| Natural Language Processing with Transformers (HF team) | [transformersbook.com](https://transformersbook.com/) |
+| The Hundred-Page Language Models Book | [thelmbook.com](https://thelmbook.com/) |
+| A Little Bit of RLHF (free online) | [rlhfbook.com](https://rlhfbook.com/) |
+
+### Key Articles
+
+| Article | Link |
+|---------|------|
+| The Big LLM Architecture Comparison | [sebastianraschka.com](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison) |
+| From GPT-2 to gpt-oss: Architectural Advances | [sebastianraschka.com](https://sebastianraschka.com/blog/2025/from-gpt-2-to-gpt-oss.html) |
+| Sampling for Text Generation | [huyenchip.com](https://huyenchip.com/2024/01/16/sampling.html) |
+| A Visual Guide to Reasoning LLMs | [maartengrootendorst.com](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms) |
+| Understanding Multimodal LLMs | [sebastianraschka.com](https://magazine.sebastianraschka.com/p/understanding-multimodal-llms) |
+
+---
 *Cross-references: [ML Track](../tracks/machine-learning.md) · [Python](../languages/python.md) · [C++ ML](../languages/cpp.md) · [Books](books.md)*
