@@ -36,3 +36,15 @@
 
 ---
 *Cross-references: [C](../languages/c.md) · [Systems Track](../tracks/systems-programming.md) · [Embedded Track](../tracks/embedded-systems.md)*
+
+
+## Additional Video Courses
+
+> 📺 Top-rated OS lecture series from [`cs-video-courses`](../cs-video-courses/README.md#operating-systems).
+
+| Course | Platform | Institution |
+|--------|----------|-------------|
+| [CS 162 Operating Systems and Systems Programming](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC) | YouTube | UC Berkeley |
+| [CS124 Operating Systems](https://www.youtube.com/playlist?list=PL3swII2vlVoVbav6FV98pidq6BsTN4u56) | YouTube | Caltech |
+| [ECE 344 Operating Systems](https://www.youtube.com/playlist?list=PLunILarQwxnntWWNJ64E7wC4KhsEwHWxB) | YouTube | U of Toronto (Jon Eyolfson) |
+| [CS6200 Introduction to Operating Systems](https://www.youtube.com/playlist?list=PLTsf9UeqkReZbK7xqIYn_mXmsQZIb011T) | YouTube | Georgia Tech |

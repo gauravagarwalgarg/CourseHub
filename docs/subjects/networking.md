@@ -22,3 +22,13 @@
 
 ---
 *Cross-references: [C](../languages/c.md) · [Go](../languages/go.md) · [Systems Track](../tracks/systems-programming.md)*
+
+
+## Additional Video Courses
+
+> 📺 From [`cs-video-courses`](../cs-video-courses/README.md#computer-networks).
+
+| Course | Platform | Institution |
+|--------|----------|-------------|
+| [CS 144 Introduction to Computer Networking](https://www.youtube.com/playlist?list=PL6RdenZrxrw9inR-IJv-erlOKRHjymxMN) | YouTube | Stanford |
+| [6.172 Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/) | MIT OCW | MIT |

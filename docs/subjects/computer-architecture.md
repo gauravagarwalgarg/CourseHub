@@ -25,3 +25,13 @@
 
 ---
 *Cross-references: [Embedded Track](../tracks/embedded-systems.md) · [Electronics](electronics.md)*
+
+
+## Additional Video Courses
+
+> 📺 From [`cs-video-courses`](../cs-video-courses/README.md#computer-organization-and-architecture).
+
+| Course | Platform | Institution |
+|--------|----------|-------------|
+| [CS 61C Great Ideas in Computer Architecture](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html) | InfoCoBuild | UC Berkeley |
+| [Computer Architecture (full playlists)](https://www.youtube.com/c/OnurMutluLectures/playlists) | YouTube | ETH Zürich (Onur Mutlu) |

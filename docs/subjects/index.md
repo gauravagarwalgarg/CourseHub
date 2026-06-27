@@ -20,7 +20,13 @@
 | 🛠️ [Developer Tools](developer-tools.md) | Git, Docker, terminal, debugging |
 | ✅ [Best Practices](best-practices.md) | Style guides, OWASP, patterns |
 | 🔌 [Electronics](electronics.md) | Digital, analog, PCB, signals |
-| 🌊 [Emerging Industries](emerging-industries.md) | Robotics, quantum, AR/VR |
+| 🔐 [Security & Cryptography](security.md) | Web security, crypto, network security |
+| 🎨 [Computer Graphics](computer-graphics.md) | Rendering, ray tracing, geometry |
+| ⚛️ [Quantum Computing](quantum-computing.md) | Qubits, quantum algorithms, hardware |
+| 🤖 [Robotics & Control](robotics-control.md) | Kinematics, control theory, SLAM |
+| 🧠 [Theoretical CS & PL](theoretical-cs.md) | Automata, compilers, type theory |
+| 🧬 [Computational Biology](computational-biology.md) | Bioinformatics, genomics, systems bio |
+| 🌊 [Emerging Industries](emerging-industries.md) | AR/VR, new tech frontiers |
 | 🎮 [Gaming & Graphics](gaming.md) | Game engines, rendering, physics |
 | 💹 [HFT & Finance](hft-finance.md) | Low-latency, markets, quant |
 | 🚀 [Space Software](space-software.md) | Flight software, DO-178C |

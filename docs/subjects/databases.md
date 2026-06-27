@@ -32,3 +32,14 @@
 
 ---
 *Cross-references: [Systems Track](../tracks/systems-programming.md) · [Cloud Track](../tracks/cloud-devops.md)*
+
+
+## Additional Video Courses
+
+> 📺 From [`cs-video-courses`](../cs-video-courses/README.md#database-systems).
+
+| Course | Platform | Institution |
+|--------|----------|-------------|
+| [CS 186 Introduction to Database Systems](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs186-spring2015-berkeley.html) | InfoCoBuild | UC Berkeley |
+| [CS 6530 Graduate-level Database Systems](https://www.youtube.com/playlist?list=PLbuogVdPnkCqwHUcieMrytP453Ep0y6eI) | YouTube | University of Utah |
+| [6.830/6.814 Database Systems](https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK) | YouTube | MIT |
