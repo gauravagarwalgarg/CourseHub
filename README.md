@@ -1,5 +1,12 @@
 # 🎓 CourseHub
 
+[![CI](https://github.com/gauravagarwalgarg/sw-course-hub/actions/workflows/ci.yml/badge.svg)](https://github.com/gauravagarwalgarg/sw-course-hub/actions/workflows/ci.yml) [![Docs](https://img.shields.io/badge/docs-live-blue?logo=github)](https://gauravagarwalgarg.github.io/sw-course-hub/) ![MkDocs](https://img.shields.io/badge/MkDocs-Material-blue?logo=materialformkdocs&logoColor=white) [![License](https://img.shields.io/github/license/gauravagarwalgarg/sw-course-hub)](https://github.com/gauravagarwalgarg/sw-course-hub/blob/master/LICENSE)
+
+> 📖 **Documentation**: [https://gauravagarwalgarg.github.io/sw-course-hub/](https://gauravagarwalgarg.github.io/sw-course-hub/)
+>
+> 📦 **Repository**: [GitHub](https://github.com/gauravagarwalgarg/sw-course-hub)
+
+
 > **The bookmarked pages every developer saves but never opens finally organized in one place.**
 
 A curated collection of **free** courses, conferences, engineering blogs, and references from fundamentals to frontier research. Everything open, nothing behind a paywall.
